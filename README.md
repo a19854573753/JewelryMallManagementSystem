@@ -4,7 +4,7 @@
 
 # 299.JewelryMallManagementSystem
 
-<p>V：bishebao888888(sql文件)</p>
+<p>抠群: 983063232(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">299.珠宝商城管理系统</h1></p>
